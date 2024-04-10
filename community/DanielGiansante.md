@@ -1,5 +1,5 @@
 # 👋 Olá, pode de chamar de Daniel!
-Atualmente sou um estudante de Análise e Desenvolvimento de Sistemas e apaixonado por automações de processos e I.A.
+Atualmente sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por automações de processos e I.A.
 
 ##
 ### 📊 Estatísticas no GitHub:
